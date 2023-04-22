@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  transition: background-color .4s;
+}
+
+h1 {
+  color: #0006;
+  margin: 5rem 0 0;
+  font-size: 10rem;
+  transition: all .4s;
+  position: relative;
+}
+
+.colors {
+  flex-wrap: wrap;
+  margin: 5rem;
+  display: flex;
+}
+
+.colors span {
+  color: #0006;
+  flex: 1;
+  padding: 1rem;
+  font-weight: 900;
+}
+
+.colors span.dark {
+  color: #ffffffbf;
+}
+
+@keyframes jump {
+  from {
+    box-shadow: var(--box-shadow);
+    transform: scale(2.5)rotate(-3deg);
+  }
+
+  to {
+    transform: scale(1)rotate(0);
+  }
+}
+
+.colors span.got {
+  text-decoration: line-through;
+  animation: .2s ease-in-out 2 alternate-reverse jump;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */

@@ -1,0 +1,10 @@
+9
+60F:\Projects\wesbos-projects\web-speech-colours-game\base.css133254693749112295 0
+61F:\Projects\wesbos-projects\web-speech-colours-game\colors.js133254696343876311 0
+64F:\Projects\wesbos-projects\web-speech-colours-game\package.json133254707858323950 0
+63F:\Projects\wesbos-projects\web-speech-colours-game\handlers.js133254854328826110 0
+58F:\Projects\wesbos-projects\web-speech-colours-game\spe.js133254742004581059 0
+62F:\Projects\wesbos-projects\web-speech-colours-game\index.html133254739762973318 0
+69F:\Projects\wesbos-projects\web-speech-colours-game\package-lock.json133190472460000000 0
+61F:\Projects\wesbos-projects\web-speech-colours-game\speech.js133254856727301053 0
+61F:\Projects\wesbos-projects\web-speech-colours-game\style.css133190472460000000 0
